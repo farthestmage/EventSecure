@@ -7,29 +7,29 @@ This system is perfect for **corporate conferences, academic symposiums, and hig
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🔐 User Authentication
+### User Authentication
 
 * **User Registration** with personal details: Name, Email, Phone
 * **Webcam-based Face Capture** during registration
 * **Secure Password Hashing** using `bcrypt`
 * **Dual Authentication**: Password + Face Verification during login
 
-### 🖥️ Face Recognition System
+### Face Recognition System
 
 * Real-time face detection via **webcam**
 * **Python `face_recognition`** library for encoding and verification
 * Facial data stored securely in **PostgreSQL**
 * Automatic match checking during event entry
 
-### 📅 Event Management Dashboard
+### Event Management Dashboard
 
 * Create, edit, and delete events
 * View attendee lists and verification statuses
 * Track real-time statistics of attendees
 
-### 🗄️ Database Integration
+###  Database Integration
 
 * **PostgreSQL** backend with optimized table structures
 * Separate tables for users, events, and registrations
@@ -37,7 +37,7 @@ This system is perfect for **corporate conferences, academic symposiums, and hig
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:**
 
